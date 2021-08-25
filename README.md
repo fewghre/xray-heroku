@@ -6,7 +6,7 @@
 * 支持tor网络，且可通过自定义网络配置文件启动xray和caddy来按需配置各种功能  
 * 支持存储自定义文件,目录及账号密码均为AUUID,客户端务必使用TLS连接 
 * 请务必将本项目fork之后把部署地址后面的名字改成自己的，非常重要，切记！！！！
-  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/dfgbew/xray) 
+  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/dfgbew/xray-heroku) 
 
   
 ### 服务端
